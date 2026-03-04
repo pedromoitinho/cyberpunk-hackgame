@@ -2,7 +2,7 @@
 
 A terminal-based C++ recreation of the "Breach Protocol" hacking minigame from Cyberpunk 2077. This project was built to demonstrate object-oriented programming, complex state management, and algorithmic sequence matching in a console environment.
 
-![Gameplay Demo](link-to-your-gif-or-image-here.gif)
+![Gameplay Demo](https://i.redd.it/x4rf49npwwhe1.gif)
 
 ## 📌 Overview
 
